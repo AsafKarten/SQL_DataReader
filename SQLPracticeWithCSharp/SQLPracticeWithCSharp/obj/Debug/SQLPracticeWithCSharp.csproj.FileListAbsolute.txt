@@ -1,0 +1,20 @@
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.exe.config
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.exe
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.pdb
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csprojAssemblyReference.cache
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.Form1.resources
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.Properties.Resources.resources
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csproj.GenerateResource.cache
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csproj.CoreCompileInputs.cache
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.exe
+D:\Study\ClientSide-C# (Zion & Nir)\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.pdb
+C:\Users\Cyber\Downloads\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.exe.config
+C:\Users\Cyber\Downloads\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.exe
+C:\Users\Cyber\Downloads\SQLPracticeWithCSharp\SQLPracticeWithCSharp\bin\Debug\SQLPracticeWithCSharp.pdb
+C:\Users\Cyber\Downloads\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csprojAssemblyReference.cache
+C:\Users\Cyber\Downloads\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.Form1.resources
+C:\Users\Cyber\Downloads\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.Properties.Resources.resources
+C:\Users\Cyber\Downloads\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csproj.GenerateResource.cache
+C:\Users\Cyber\Downloads\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Cyber\Downloads\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.exe
+C:\Users\Cyber\Downloads\SQLPracticeWithCSharp\SQLPracticeWithCSharp\obj\Debug\SQLPracticeWithCSharp.pdb
